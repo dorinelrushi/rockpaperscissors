@@ -1,0 +1,46 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  outline: none;
+}
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(10, 26, 43);
+}
+
+.center1{
+  position: absolute;
+  top: 50%; 
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+.center{
+  width: 550px;
+  height:80px;
+  background-color: rgb(255, 253, 253);
+  
+}
+.choose{
+  width: 550px;
+  height:180px;
+  background-color: rgb(68, 123, 226);
+  text-align: center;
+  color: white;
+}
+
+.btn{
+  margin: auto;
+  text-align: center;
+  margin: 10px auto;
+}
+
+button{
+  margin: 22px ;
+  padding: 10px 10px;
+  width: 100px;
+  cursor: pointer;
+}
+
+h2{
+  letter-spacing: 1px;
+}
